@@ -1,3 +1,14 @@
+- name: Coder
+  description: A Pure and Clean Theme in minimalist style for Coders
+  link: https://github.com/xunzhuo/hexo-theme-coder
+  preview: https://www.liuxunzhuo.top
+  tags:
+    - minimalist
+    - coders
+    - light
+    - dark/light
+    - pure
+    - clean
 - name: Aircv
   description: This is Hexo Theme with a beautiful style design form KeenThemes adapted to hexo by Molavec.
   link: https://github.com/molavec/hexo-theme-aircv
@@ -376,18 +387,6 @@
     - disqus
     - syntax-highlighting
     - Font Awesome
-- name: bulxo
-  description: A simple, modern, beautiful theme with Bulma
-  link: https://github.com/polebug/hexo-theme-bulxo
-  preview: http://polebug.github.io
-  tags:
-    - Bulma
-    - simple
-    - beautiful
-    - modern
-    - free
-    - creative
-    - fast
 - name: Space Cadet
   description: A modern, purple-accented Bootstrap 4 blog
   link: https://github.com/azigler/hexo-theme-space-cadet
@@ -3249,3 +3248,15 @@
     - elegant
     - minimal
     - dark
+- name: mduilw
+  description: A light weight MD theme for Hexo.
+  link: https://github.com/186526/hexo-theme-mduilw
+  preview: https://mduilw.186526.xyz/
+  tags:
+    - light_weight
+    - simple
+    - responsive
+    - minimal
+    - dark
+    - 中文
+    
